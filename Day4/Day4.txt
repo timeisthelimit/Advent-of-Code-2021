@@ -1,0 +1,10 @@
+Completed manually
+
+bcos I'm qUirkY lik dat
+
+the random accompanying files are artefacts of my manual computation
+
+used vscode and its text find and select all tools to replace numbers from the callout sequence on all board where they appeared
+
+in the end it probably took longer than it would have took me to code it, but on the off chance that I didn't make any
+mistakes in the manual work, perhaps it could have been faster
